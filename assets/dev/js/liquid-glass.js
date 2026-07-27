@@ -215,11 +215,17 @@
 
 		// The Flip Box widget can't host backdrop-filter on its wrapper (that
 		// flattens the 3D flip), so the effect must be applied to the faces.
+		// Contact Form 7 needs the effect on the form controls themselves.
 		// Every other element receives the effect directly.
 		getEffectTargets: function ($scope) {
 			if ($scope.hasClass('elementor-widget-ha-flip-box')) {
 				return $scope.find('.ha-flip-box-front, .ha-flip-box-back');
 			}
+
+			if ($scope.hasClass('elementor-widget-ha-cf7')) {
+				return $scope.find('input[type="text"], textarea, select, button, input[type="submit"]');
+			}
+
 			return $scope;
 		},
 
