@@ -302,3 +302,14 @@ $ha-lg-presets: (
 	backdrop-filter: blur(var(--ha-lg-blur, 8px));
 	-webkit-backdrop-filter: blur(var(--ha-lg-blur, 8px));
 }
+
+// -----------------------------------------------------------------------------
+// Creative Button integration
+//
+// backdrop-filter turns the inline-block button into a new formatting context,
+// so it needs to be vertically aligned within its wrapper.
+// -----------------------------------------------------------------------------
+
+.ha-lg-yes .ha-creative-btn-wrap .ha-creative-btn {
+	vertical-align: middle;
+}
