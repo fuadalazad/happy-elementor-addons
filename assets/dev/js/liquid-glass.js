@@ -198,22 +198,36 @@
 				return;
 			}
 
+			var $targets = this.getEffectTargets($scope);
+
 			for (var i = 0; i < matchedPresets.length; i++) {
 				var presetKey = matchedPresets[ i ];
 
 				if (presetKey === 'ha-lg-custom') {
 					this.renderCustomFilter($scope);
 				} else {
-					$scope.css('backdrop-filter', '');
-					$scope.css('-webkit-backdrop-filter', '');
+					$targets.css('backdrop-filter', '');
+					$targets.css('-webkit-backdrop-filter', '');
 					this.renderSVGFilter(presetKey);
 				}
 			}
 		},
 
+		// The Flip Box widget can't host backdrop-filter on its wrapper (that
+		// flattens the 3D flip), so the effect must be applied to the faces.
+		// Every other element receives the effect directly.
+		getEffectTargets: function ($scope) {
+			if ($scope.hasClass('elementor-widget-ha-flip-box')) {
+				return $scope.find('.ha-flip-box-front, .ha-flip-box-back');
+			}
+			return $scope;
+		},
+
 		cleanupElement: function ($scope) {
-			$scope.css('backdrop-filter', '');
-			$scope.css('-webkit-backdrop-filter', '');
+			var $targets = this.getEffectTargets($scope);
+
+			$targets.css('backdrop-filter', '');
+			$targets.css('-webkit-backdrop-filter', '');
 
 			var elementId = $scope.data('id') || $scope.attr('id') || $scope.attr('data-ha-lg-uid');
 			if (elementId) {
@@ -267,8 +281,9 @@
 			console.log('Applied custom liquid glass filter with ID:', filterId);
 			console.log('$scope:', $scope);
 
-			$scope.css('backdrop-filter', 'blur(var(--ha-lg-blur, 8px)) url(#' + filterId + ')');
-			$scope.css('-webkit-backdrop-filter', 'blur(var(--ha-lg-blur, 8px)) url(#' + filterId + ')');
+			var $targets = this.getEffectTargets($scope);
+			$targets.css('backdrop-filter', 'blur(var(--ha-lg-blur, 8px)) url(#' + filterId + ')');
+			$targets.css('-webkit-backdrop-filter', 'blur(var(--ha-lg-blur, 8px)) url(#' + filterId + ')');
 		},
 
 		trimCSSVar: function (val) {
