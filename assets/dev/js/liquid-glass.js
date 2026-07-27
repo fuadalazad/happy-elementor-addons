@@ -223,7 +223,7 @@
 			}
 
 			if ($scope.hasClass('elementor-widget-ha-cf7')) {
-				return $scope.find('input[type="text"], textarea, select, button, input[type="submit"]');
+				return $scope.find('input[type="text"], input[type="email"], textarea, select, button, input[type="submit"]');
 			}
 
 			return $scope;

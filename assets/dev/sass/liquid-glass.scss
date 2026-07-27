@@ -327,6 +327,7 @@ $ha-lg-presets: (
 		-webkit-backdrop-filter: none;
 
 		input[type="text"],
+		input[type="email"],
 		textarea,
 		select,
 		button,
@@ -342,6 +343,7 @@ $ha-lg-presets: (
 	-webkit-backdrop-filter: none;
 
 	input[type="text"],
+	input[type="email"],
 	textarea,
 	select,
 	button,
@@ -399,6 +401,7 @@ $ha-lg-shadows: (
 	}
 
 	.elementor-widget-ha-cf7.ha-lg-#{$cls} input[type="text"],
+	.elementor-widget-ha-cf7.ha-lg-#{$cls} input[type="email"],
 	.elementor-widget-ha-cf7.ha-lg-#{$cls} textarea,
 	.elementor-widget-ha-cf7.ha-lg-#{$cls} select,
 	.elementor-widget-ha-cf7.ha-lg-#{$cls} button,
