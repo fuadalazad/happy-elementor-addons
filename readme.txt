@@ -81,7 +81,6 @@ HappyAddons free version includes 70+ Elementor widgets, a full Theme Builder, a
 * **[Number](https://demo.happyaddons.com/elementor-number-widget-demo/)**: Create number blocks
 * **[Fun-Factor](https://demo.happyaddons.com/elementor-fun-factor-widget-demo/)**: It’s a counter widget
 * **[Promo Box](https://demo.happyaddons.com/elementor-promo-box-widget-demo/)**: Add promotional content box
-* **[Liquid Glass](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/liquid-glass/)**: Design modern frosted-glass layouts with fluidly morphing background shapes
 * **[WhatsApp Button](https://happyaddons.com/docs/happy-addons-for-elementor/widgets/whatsapp-chat/)**: Add an interactive click-to-chat button that connects website visitors directly to your WhatsApp
 
 ##🎥 Slider & Carousel - Smooth, animated content that keeps visitors scrolling
@@ -165,6 +164,7 @@ Style any major WordPress form plugin directly inside Elementor, without writing
 * **[Custom JS](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/custom-js-feature/)**: Allows you to inject custom JavaScript code directly into individual widgets
 * **[Background Parallax](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/background-parallax/)**: Adds a dynamic multi-layered scrolling effect to your element backgrounds
 * **[Hugeicons](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/huge-icons-library/)**: Use Hugeicons directly in your editor.
+* **[Liquid Glass](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/liquid-glass/)**: Design modern frosted-glass layouts with fluidly morphing background shapes
 
 ## 75+ Pro Elementor Widgets
 HappyAddons Pro unlocks 75+ additional Elementor widgets for professional sites, agencies, and developers.
