@@ -78,9 +78,11 @@ HappyAddons free version includes 70+ Elementor widgets, a full Theme Builder, a
 * **[Animated Link](https://demo.happyaddons.com/elementor-animated-link-widget-demo/)**: Link text with animated underline and hover effects
 * **[Text Scroll](https://happyaddons.com/docs/happy-addons-for-elementor/widgets/text-scroll/)**: Horizontally scrolling marquee-style text
 * **[360° Rotation](https://demo.happyaddons.com/elementor-360-rotation-widget-demo/)**: Interactive 360-degree product image viewer
-* **[Number](https://demo.happyaddons.com/elementor-number-widget-demo/)**: Create number blocks.
-* **[Fun-Factor](https://demo.happyaddons.com/elementor-fun-factor-widget-demo/)**: It’s a counter widget.
-* **[Promo Box](https://demo.happyaddons.com/elementor-promo-box-widget-demo/)**: Add promotional content box.
+* **[Number](https://demo.happyaddons.com/elementor-number-widget-demo/)**: Create number blocks
+* **[Fun-Factor](https://demo.happyaddons.com/elementor-fun-factor-widget-demo/)**: It’s a counter widget
+* **[Promo Box](https://demo.happyaddons.com/elementor-promo-box-widget-demo/)**: Add promotional content box
+* **[Liquid Glass](https://happyaddons.com/docs/happy-addons-for-elementor/happy-features/liquid-glass/)**: Design modern frosted-glass layouts with fluidly morphing background shapes
+* **[WhatsApp Button](https://happyaddons.com/docs/happy-addons-for-elementor/widgets/whatsapp-chat/)**: Add an interactive click-to-chat button that connects website visitors directly to your WhatsApp
 
 ##🎥 Slider & Carousel - Smooth, animated content that keeps visitors scrolling
 * **[Slider](https://demo.happyaddons.com/elementor-slider-widget-demo/)**: Animated image and content sliders with multiple transition effects
