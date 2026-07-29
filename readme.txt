@@ -314,7 +314,7 @@ For a more detailed explanation check out the following documentation
 = 3.23.1 - 29 July 2026 =
 
 - Update: Improved compatibility of some widgets with the Liquid Glass feature.
-- Update: WhatsApp Button help url.
+- Update: WhatsApp Button help URL added.
 
 = 3.23.0 - 22 July 2026 =
 
