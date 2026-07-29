@@ -40,9 +40,9 @@ defined('ABSPATH') || die();
 
 
 if ( defined( 'HAPPY_ADDONS_DEV' ) && true == HAPPY_ADDONS_DEV ) {
-	define('HAPPY_ADDONS_VERSION', '3.23.0' . time() );
+	define('HAPPY_ADDONS_VERSION', '3.23.1' . time() );
 } else {
-	define( 'HAPPY_ADDONS_VERSION', '3.23.0' );
+	define( 'HAPPY_ADDONS_VERSION', '3.23.1' );
 }
 define('HAPPY_ADDONS__FILE__', __FILE__);
 define('HAPPY_ADDONS_DIR_PATH', plugin_dir_path(HAPPY_ADDONS__FILE__));
@@ -52,7 +52,7 @@ define('HAPPY_ADDONS_REDIRECTION_FLAG', 'happyaddons_do_activation_direct');
 define('HAPPY_ADDONS_WIZARD_REDIRECTION_FLAG', 'happyaddons_do_wizard_direct');
 
 define('HAPPY_ADDONS_MINIMUM_ELEMENTOR_VERSION', '3.7.0');
-define('HAPPY_ADDONS_MINIMUM_PHP_VERSION', '7.4');
+define('HAPPY_ADDONS_MINIMUM_PHP_VERSION', '8.1');
 
 /**
  * The journey of a thousand miles starts here.
