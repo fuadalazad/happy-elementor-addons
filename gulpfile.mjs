@@ -66,6 +66,8 @@ const buildSrcFiles = [
 	"!./vendor/squizlabs/**",
 	"!./vendor/wp-coding-standards/**",
 	"!./vendor/autoload.php",
+	"!./packer.sh",
+	"!./ARCHITECTURE_OVERVIEW.md"
 ];
 
 function makeFrontendCSS () {
