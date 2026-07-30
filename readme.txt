@@ -1,5 +1,5 @@
 === Happy Addons for Elementor ===
-Plugin Name: Happy Addons for Elementor
+Plugin Name: HappyAddons for Elementor – 150+ Elementor Widgets & Templates
 Version: 3.23.0
 Author: Leevio
 Author URI: https://happyaddons.com/
@@ -12,7 +12,7 @@ Requires PHP: 8.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-[HappyAddons for Elementor](https://happyaddons.com/)-Get Header Footer, Single Post, Archive Page, Megamenu, Slider Builder, and 150+ Elementor Features & Widgets.
+[HappyAddons](https://happyaddons.com/) packs Header Footer Builder, Megamenu, Single Post, Archive Page, Slider Builder, & 500+ Ready Templates into one powerful Elementor Addons plugin.
 
 
 == Description ==
@@ -126,7 +126,7 @@ Build your complete WordPress site theme - header, footer, single posts, archive
 
 [https://youtu.be/PWrgzML7h4w?si=r9r2hJOpkVUUAhW7]
 
-##🏗️ Free Form Styling Widgets (Integration)
+##📥 Free Form Styling Widgets (Integration)
 Style any major WordPress form plugin directly inside Elementor, without writing a single line of CSS. Supported Form Plugins are:
 
 * **[Contact Form 7](https://demo.happyaddons.com/elementor-contact-form-7-widget-demo/)**: Stylize CF7 forms.
@@ -137,7 +137,7 @@ Style any major WordPress form plugin directly inside Elementor, without writing
 * **[weForms](https://demo.happyaddons.com/elementor-we-forms-widget-demo/)**: Style weForms forms.
 * **[WP Fluent Forms](https://demo.happyaddons.com/elementor-fluent-form-widget-demo/)**: Beautify Fluent forms.
 
-##🏗️ Free Features & Extensions
+##🔌 Free Features & Extensions
 24+ free features included from day one. Take a look at them below:
 
 * **[Header Footer Builder](https://happyaddons.com/how-to-create-header-and-footer-in-elementor/)**: Create free Elementor header and footer.
@@ -173,7 +173,7 @@ Style any major WordPress form plugin directly inside Elementor, without writing
 ## 75+ Pro Elementor Widgets
 HappyAddons Pro unlocks 75+ additional Elementor widgets for professional sites, agencies, and developers.
 
-##🧩 General - Advanced building blocks for complex layouts and interactions.
+##🧩 General - Advanced building blocks for complex layouts and interactions
 * **[Advanced Heading](https://demo.happyaddons.com/elementor-advanced-heading-widget-demo/)**: Multi-layered heading designs with custom styling per word
 * **[Advanced Tab](https://demo.happyaddons.com/elementor-advanced-tab-widget-demo/)**: Tabbed content builder with nested element support
 * **[Advanced Accordion](https://demo.happyaddons.com/elementor-advanced-accordion-widget-demo/)**: Accordion builder with nested widget support
@@ -195,7 +195,7 @@ HappyAddons Pro unlocks 75+ additional Elementor widgets for professional sites,
 * **[List Group](https://demo.happyaddons.com/elementor-list-group-widget-demo/)**: Add multiple lists beautifully.
 * **[Breadcrumbs](https://demo.happyaddons.com/elementor-breadcrumb-widget-demo/)**: Visualize site’s breadcrumbs.
 
-##🎨 Creative - Next-level visual effects for agency-grade websites.
+##🎨 Creative - Next-level visual effects for agency-grade websites
 * **[One Page Navigation](https://demo.happyaddons.com/elementor-one-page-navigation-widget-demo/)**: Smooth one-page scroll with dot navigation
 * **[Off-Canvas Content/Menu](https://demo.happyaddons.com/elementor-off-canvas-content-demo/)**: Slide-in menus and off-canvas content panels
 * **[Hot Spot](https://demo.happyaddons.com/elementor-hot-spot-widgets-demo/)**: Hotspot images with interactive tooltip overlays
@@ -205,14 +205,14 @@ HappyAddons Pro unlocks 75+ additional Elementor widgets for professional sites,
 * **[Happy Mega Menu](https://demo.happyaddons.com/elementor-happy-mega-menu-widget-demo/)**: Create MegaMenu with Elementor.
 * **[Flip Box](https://demo.happyaddons.com/elementor-flip-box-widget-demo-2/)**: 3D flip card effects with front and back content panels
 * **[Hover Box](https://demo.happyaddons.com/elementor-image-hover-box-widget-demo/)**: Animated content panels that reveal on hover
-* **[Scroll Tabs](https://happyaddons.com/docs/happy-addons-for-elementor-pro/happy-effects-pro/scroll-tabs/)**: organize vast amounts of text and media into responsive vertical or horizontal tabs
+* **[Scroll Tabs](https://happyaddons.com/docs/happy-addons-for-elementor-pro/happy-effects-pro/scroll-tabs/)**: Organize vast amounts of text and media into responsive vertical or horizontal tabs
 * **[Super Buttons](https://demo-x.happyaddons.com/super-button-demo/)**: You can create highly interactive call-to-action buttons featuring dual icons
 * **[Scrolling Image](https://demo.happyaddons.com/elementor-scrolling-image-widget-demo/)**: Add horizontally scrolling images & more
-* **[Multi Scroll](https://happyaddons.com/docs/happy-addons-for-elementor-pro/happy-effects-pro/multi-scroll/)**: split your screen into two distinct vertical columns that scroll in opposite directions
+* **[Multi Scroll](https://happyaddons.com/docs/happy-addons-for-elementor-pro/happy-effects-pro/multi-scroll/)**: Split your screen into two distinct vertical columns that scroll in opposite directions
 * **[Single Image Scroll](https://demo.happyaddons.com/single-image-scroll-widget-demo/)**: Scroll on hover effect on long image.
 * **[Loop Tab](https://demo.happyaddons.com/loop-tab/)**: dynamically pull your WordPress blog posts, custom post types, or WooCommerce products into smooth-sliding tabbed layouts
 
-##🎥 Slider & Carousel - Professional multi-layer sliders and controlled carousels.
+##🎥 Slider & Carousel - Professional multi-layer sliders and controlled carousels
 * **[Advanced Slider](https://demo.happyaddons.com/elementor-advanced-slider-widget-demo/)**: It’s a slider builder.
 * **[Creative Slider](https://demo.happyaddons.com/elementor-creative-slider-widget-demo/)**: Build eye-catching carousels with advanced transition effects
 * **[Team Carousel](https://demo.happyaddons.com/elementor-team-carousel-widget-demo/)**: Add multiple team members as carousel.
@@ -220,30 +220,30 @@ HappyAddons Pro unlocks 75+ additional Elementor widgets for professional sites,
 * **[Logo Carousel](https://demo.happyaddons.com/elementor-logo-carousel-widget-demo/)**: Add logos in carousel styles.
 * **[Post Carousel](https://demo.happyaddons.com/elementor-post-carousel-widget-demo/)**: Create post carousels with it.
 
-##📣 Social Media - Pull live social content directly into your pages.
+##📣 Social Media - Pull live social content directly into your pages
 * **[Instagram Feed](https://demo.happyaddons.com/elementor-instagram-feed-widget-demo/)**: Showcase instagram’s images directly.
 * **[Twitter Feed Carousel](https://demo.happyaddons.com/elementor-twitter-feed-carousel-widget-demo/)**: Create twitter feed carousels.
 * **[Facebook Feed](https://demo.happyaddons.com/elementor-facebook-feed-widget-demo/)**: Add facebook feed in site.
 
-##📢 Marketing - Widgets that drive action and boost conversions.
+##📢 Marketing - Widgets that drive action and boost conversions
 * **[Pricing Table](https://demo.happyaddons.com/elementor-pricing-table-widget-demo/)**: Create advanced pricing table.
 * **[Price Menu](https://demo.happyaddons.com/elementor-price-menu-widget-demo/)**: Display restaurant food menu list.
 * **[Advanced Pricing Table](https://demo-x.happyaddons.com/advanced-pricing-table-demo/)**: Allows you to design highly flexible, conversion-optimized pricing grids complete with toggle switches
 
-##📊 Charts & Data - Dynamic data from any source, displayed beautifully.
+##📊 Charts & Data - Dynamic data from any source, displayed beautifully
 * **[Advanced Data table](https://demo.happyaddons.com/elementor-advanced-datatable-widget-demo/)**: Create Data Table with GoogleSheets, TablePress, CSV, & Local Database.
 * **[Line Chart](https://demo.happyaddons.com/elementor-line-chart-widget-demo/)**: Showcase stats in line chart style.
 * **[Pie & Doughnut Chart](https://demo.happyaddons.com/elementor-pie-doughnut-chart-widget-demo/)**: Crate animated pie charts.
 * **[Polar Area Chart](https://demo.happyaddons.com/elementor-polar-area-chart-widget-demo/)**: Create polar area charts.
 * **[Radar Chart](https://demo.happyaddons.com/elementor-radar-chart-widget-demo/)**: Display data in radar chart styles.
 
-##📝 Post & Content - Display and organize your blog content with full control.
+##📝 Post & Content - Display and organize your blog content with full control
 * **[Post Grid](https://demo.happyaddons.com/elementor-post-grid-widget-demo/)**: Create post grid items.
 * **[Post Tiles](https://demo.happyaddons.com/elementor-post-tiles-widget-demo/)**: Show posts in tiles style.
 * **[Smart Post List](https://demo.happyaddons.com/elementor-smart-post-list-widget-demo/)**: One combo widget for sticky post, filterable post list.
 * **[Author List](https://demo.happyaddons.com/elementor-author-list-widget-demo/)**: Show site’s all authors in list.
 
-## WooCommerce Widgets
+##💰 WooCommerce Widgets
 Design your WooCommerce store pages inside Elementor with dedicated widgets.
 
 * **[WooCommerce Product Grid](https://demo.happyaddons.com/elementor-product-grid-widget-demo/)**: Add Woo product grids.
@@ -256,7 +256,7 @@ Design your WooCommerce store pages inside Elementor with dedicated widgets.
 
 [https://youtu.be/5SNVUJumQWE?si=5iQwy_7G2gTGH7tc]
 
-## Easy Digital Downloads (EDD) Widgets
+##📦 Easy Digital Downloads (EDD) Widgets
 HappyAddons includes complete EDD store support with 9 dedicated widgets - products, categories, cart, checkout, login, registration.
 
 * **[EDD Single Product](https://demo.happyaddons.com/elementor-edd-single-product-widget-demo/)**: Showcase featured EDD item.
@@ -271,7 +271,7 @@ HappyAddons includes complete EDD store support with 9 dedicated widgets - produ
 * **[EDD Purchase](https://happyaddons.com/docs/happy-addons-for-elementor-pro/edd-widgets-features/edd-purchase/)**: Style EDD store’s Purchase page
 * **[EDD Download](https://happyaddons.com/docs/happy-addons-for-elementor-pro/edd-widgets-features/edd-download/)**: Customize EDD Download Page.
 
-## Premium Features
+##💎 Premium Features
 * **[Cross Domain Copy-Paste](https://demo.happyaddons.com/cross-domain-copy-paste/)**: You can copy & paste element from one domain to another.
 * **[Unlimited Section Nesting](https://happyaddons.com/unlimited-section-nesting/)**: Add multiple nested containers & columns within one single columns or containers.
 * **[Live Copy](https://happyaddons.com/live-copy/)**: Copy designs from our demo pages & paste it in your site!
